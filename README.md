@@ -1,3 +1,8 @@
-## THE “WUMPUS WORLD” EXAMPLE (Jade)
+Wumpus World in Jade
 
-https://github.com/aimacode
+Configuration -> Application
+Main class:
+jade.Boot
+
+Arguments:
+-gui navAgent:NavigatorAgent;spelAgent:SpeleologistAgent;envAgent:EnvironmentAgent
